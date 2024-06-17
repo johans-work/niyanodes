@@ -22,7 +22,7 @@ Each node is an instance of a type in a tree.
 
 ## implementation basics
 
-Niya nodes is implementation agnostic. Once you understand how this tool works, you'll see that niya itself is just another abstraction in need of an implementation, on a niya node tree.
+Niya nodes is implementation agnostic, and niya itself is just another abstraction in need of an implementation, on a niya node tree. 
 
 
 ##
