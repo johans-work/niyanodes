@@ -12,8 +12,7 @@ Niya nodes is a framework for abstracting, implementing, and using anything that
 
 If we take a node as a point in a tree and an abstraction as a name for a pattern at every node, we get an abstraction tree, aka, a niya node tree. And that is all there is to it. 
 
-Each node is an abstraction that has a name, an implementation, and a location. A name is any string of letters, an implementation is anything that a computer can remember or access, and its location is comprised of the names of its parent nodes. With this, users build their nodes, their trees, then use and own the systems they've created or copied. 
-
+Each node is an abstraction that has a name, an implementation, and a location. A name is any string of letters, an implementation is anything that a computer can remember or access, and its location is the names of its parent nodes. With this, users build their nodes, their trees, then use and share the systems they've created or copied, which we will call "noding" for short.
   
 ## types
 
