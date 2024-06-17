@@ -12,7 +12,7 @@ Niya nodes is a new tool for abstracting, implementing, and utilizing anything t
 
 If we take a node as a point in a tree and an abstraction as a name for a pattern at every node, we get an abstraction tree, aka, a niya node tree. 
 
-Each node is an abstraction that has a name, implementation, and address. A name is any fitting string of letters, an implementation is anything that a computer can remember or access, and an address is just the names of its parent nodes in order. Users build their nodes and trees, then use and share them. Or, "noding" for short.
+Each node is an abstraction that has a name, implementation, and address. A name is any fitting string of letters. An implementation is anything that a computer can remember or access. And an address is just the names of its parent nodes in order. Users build their nodes and trees, then use and share them. Or, "noding" for short.
 
 There isn't much new here. Any time you have nodes that progressively lead to more nodes, you get a tree. Your file system is essentially a node tree, and so is the web. What's new is reducing a system to only these abstractions, and being able to start there. It's abstraction, abstracted. A new computational canvas for everything.
 
