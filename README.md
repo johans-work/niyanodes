@@ -14,7 +14,7 @@ Think of a node as just a point in a tree or a diagram. Think of an abstraction 
 
 
 
-This simply translates to each node being an instance of a type in a tree. Users then build their nodes, their trees, then use and own the systems they've created or copied. 
+This translates to each node being an instance of a type in a tree. Users then build their nodes, their trees, then use and own the systems they've created or copied. 
 
 
 
