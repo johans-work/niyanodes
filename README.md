@@ -4,4 +4,6 @@
 </br>
 </p>
 
-## abstraction, abstracted
+## intro
+
+A framework for abstracting, implementing, and utilizing anything that can be abstracted by the user.
