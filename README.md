@@ -6,7 +6,7 @@
 
 ## overview
 
-Niya nodes, and the noding app, is a new tool and framework for abstracting, implementing, and using anything that can be abstracted by the user.
+Niya nodes (and the [noding app](http://nod.ing/) is a new tool for abstracting, implementing, and using anything that can be abstracted by the user.
 
 ## node basics
 
