@@ -8,19 +8,19 @@
 
 Niya nodes is a new tool and framework for abstracting, implementing, and using anything that can be abstracted by the user. The app is the noding app.
 
-## basics
+## node basics
 
 If we take a node as a point in a tree and an abstraction as a name for a pattern at every node, we get an abstraction tree, aka, a niya node tree. And that is all there is to it. 
 
 Each node is an abstraction that has a name, an implementation, and a location. A name is any string of letters, an implementation is anything that a computer can remember or access, and its location is the names of its parent nodes. With this, users build their nodes, their trees, then use and share the systems they've created or copied, which we will call "noding" for short.
   
-## types
+## type basics
 
 Each node is an instance of a type in a tree. 
 
 
 
-
+##
 
 Just as an abstract of a paper is a smaller pattern that describes a larger pattern, so are all words in Enlgish that represent their meaning, and names of people that represent each person. The names form a name space that allows us to differentiate each abstraction individually.
 
