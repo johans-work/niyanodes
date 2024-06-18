@@ -20,7 +20,9 @@ Each node is an abstraction that has a name, implementation, and address. A name
 
 When two nodes have something in common, we can create a template for that type of node. This makes every node an instance of a type. And that's the last piece of the basic niya node spec. If a node has been done before, you just copy it, and fill in the blanks. 
 
-In nature, almost everything is unique. Each fingerprint, each moment in time, and each cake you bake. At the same time, almost everything has something in common. Being a fingerprint, being a moment in time, and being a cake. These would be type fingerprint, type moment, and type cake. And we would say, every fingerprint is an instance of type fingerprint. In niya, every node is an instance of type node, if not also something else.
+In nature, almost everything is unique. Each fingerprint, each moment in time, and each cake you bake. At the same time, almost everything has something in common. Being a fingerprint, being a moment in time, and being a cake. And we would say, every fingerprint is an instance of the fingerprint type. In niya, every node is an instance of the node type, or "type node", if not also something else.
+
+It's important to distinguish between a real fingerprint and the word "fingerprint". The word is used to describe every fingerprint, but is not a fingerprint itself. Each fingerprint is still unique. But what isn't unique is the word "fingerprint" and how we can casually throw it around. The word is the abstraction, and niya is a system that works with "fingerprint".
 
 ## implementation basics
 
