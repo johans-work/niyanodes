@@ -21,6 +21,10 @@ There isn't much new here. Any time you have nodes that progressively lead to mo
 
 ## type basics
 
+When two nodes have something in common, we can create a template for that type of node. This makes every node an instance of a type. And that's the last piece of the basic niya node spec.
+
+In nature, almost everything is unique. Each fingerprint, each moment in time, and each time you bake a cake, the they're unique. At the same time, almost everything has something in common. Being a fingerprint, being a moment in time, and being a cake, are what those things have in common, and are rarely confused. These would be type fingerprint, type moment, and type cake. Every fingerprint would be an instance of type fingerprint.
+
 Each node is an instance of a type in a tree. 
 
 ## implementation basics
