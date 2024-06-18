@@ -14,7 +14,9 @@ Niya nodes is a new tool for abstracting, implementing, and utilizing anything t
 
 Any time you have nodes that progressively lead to more nodes, you inevitably get a tree. Your file system is essentially a node tree, and so is the web. But in both cases, the user is confined to the abstractions of each system. But what if you could combine those trees? Niya does this by adding a layer that describes and accesses each node. Everything becomes just another node through abstraction. A computational canvas for everything, where you go to add what's necessary, and do what's possible. 
 
-Adding a layer adds work, so it better be worth it, like digitizing something analog. Nodalizing creates uniformity and universality among abstractions while unlocking the features of abstraction itself. 
+Adding a layer adds work, so much like digitizing analog is worth it, nodalizing better be worth it. 
+
+Nodalizing creates uniformity and universality among your abstractions, while unlocking the features of abstraction itself. 
 
 ## node & type basics
 
