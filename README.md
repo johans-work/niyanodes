@@ -32,7 +32,9 @@ The elements:
 
 ##
 
-Adding a layer is adding more work, so it needs to be worth it, like why you would digitize something analog. Nodalizing adds uniformity and universality to the abstractions of any system, unlocking the power of abstraction itself.
+Adding a layer is adding more work, so it needs to be worth it, like why you would digitize something analog. Nodalizing adds uniformity and universality to abstractions while unlocking the features of abstraction itself.
+
+Computer objects have it both ways. The abstractions themselves become real.
 
 
 Similar to what digital does for analog, nodal will do for digital.
