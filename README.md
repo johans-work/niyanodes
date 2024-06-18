@@ -10,8 +10,7 @@ niya = each node is an instance of a type in a tree
 
 ## overview
 
-Niya nodes is a new tool for abstracting, implementing, and utilizing anything that can be abstracted and implemented by the user. The app is being built at [nod.ing](http://nod.ing/).
-
+Niya nodes is a new tool for abstracting, implementing, and utilizing anything that can be abstracted and implemented by the user. 
 ## node basics
 
 If we take a node as a point in a tree and an abstraction as a name for a pattern at every node, we get an abstraction tree, aka, a niya node tree. 
@@ -36,6 +35,8 @@ Niya itself is just an abstraction in need of an implementation on a niya node t
 
 Just as an abstract of a paper is a smaller pattern that describes a larger pattern, so are all words in Enlgish that represent their meaning, and names of people that represent each person. The names form a name space that allows us to differentiate each abstraction individually.
 
+
+The app is being built at [nod.ing](http://nod.ing/).
 
 , and not nodejs, or anything specific in networking.
 
