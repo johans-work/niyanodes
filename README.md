@@ -12,7 +12,7 @@ niya = each node is an instance of a type in a tree
 
 Niya nodes is a new tool for abstracting, implementing, and utilizing anything that can be abstracted and implemented by the user. 
 
-Any time you have nodes that progressively lead to more nodes, you inevitably get a tree. Your file system is essentially a node tree, and so is the web. But in both cases, the user is confined to the abstractions of each system. Niya adds a common layer that focuses on abstraction itself, allowing you to start there and work from there. 
+Any time you have nodes that progressively lead to more nodes, you inevitably get a tree. Your file system is essentially a node tree, and so is the web. But in both cases, the user is confined to the abstractions of each system. But what if you could combine those trees? Niya does this by adding a layer that describes and accesses each node. Everything becomes just another node through abstraction. A computational canvas for everything, where you add what's necessary, and do what's possible. 
 
 ## node & type basics
 
@@ -41,7 +41,7 @@ The elements:
 
 Just as an abstract of a paper is a smaller pattern that describes a larger pattern, so are all words in Enlgish that represent their meaning, and names of people that represent each person. The names form a name space that allows us to differentiate each abstraction individually.
 
-It's abstraction, abstracted. A computational canvas for everything. Add what's necessary, and do what's possible. 
+It's abstraction, abstracted. 
 
 The app is being built at [nod.ing](http://nod.ing/).
 
