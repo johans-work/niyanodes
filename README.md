@@ -24,7 +24,12 @@ In nature, almost everything is unique. Each fingerprint, each moment in time, a
 
 ## implementation basics
 
-Niya itself is just an abstraction in need of an implementation on a niya node tree, and is implementation agnostic. Choose the type that works best for you, or build your own. The following outlines typical implementation requirement.
+Like a todo list has elements that make it a todo list, niya nodes just has elements that make it a niya node tree. As such, niya itself is just an abstraction in need of an implementation, and is implementation agnostic. Choose the type that works best for you, or build your own. 
+
+The elements:
+
+
+
 
 
 
