@@ -22,7 +22,7 @@ When two nodes have something in common, we can create a template for that type 
 
 In nature, almost everything is unique. Each fingerprint, each moment in time, and each cake you bake. At the same time, almost everything has something in common. Being a fingerprint, being a moment in time, and being a cake. And we would say, every fingerprint is an instance of the fingerprint type. In niya, every node is an instance of the node type, or "type node", if not also something else.
 
-It's important to distinguish between a real fingerprint and the word "fingerprint". The word is used to describe every fingerprint, but is not a fingerprint itself. Each fingerprint is still unique. It's a fingerprint, but also something more. For starters, it's real. It then may be yours, and so on. But what isn't unique is the word "fingerprint" and how we can casually throw it around. "Fingerprint" is the abstraction, and niya is a system for creating and managing abstractions. 
+It's important to distinguish between a real fingerprint and the word "fingerprint". The word is used to describe every fingerprint, but is not a fingerprint itself. Each fingerprint is still unique. It's a fingerprint, but also something more. For starters, it's real. It then may be yours, and so on. But what isn't unique is the word "fingerprint" and how we can casually throw it around. "Fingerprint" is the abstraction, and niya is a system for creating and managing abstractions. As software, niya can interact with its host's hardware, and hence the real world. This is where your abstractions hit the metal.
 
 ## implementation basics
 
