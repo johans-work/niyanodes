@@ -12,7 +12,7 @@ niya = each node is an instance of a type in a tree
 
 Niya nodes is a new tool for abstracting, implementing, and utilizing anything that can be abstracted and implemented by the user. 
 
-Any time you have nodes that progressively lead to more nodes, you inevitably get a tree. Your file system is essentially a node tree, and so is the web. So there isn't much new here. What's new is reducing a system to only these abstractions, and being able to start there, with what's inevitable. It's abstraction, abstracted. A new computational canvas for everything.
+Any time you have nodes that progressively lead to more nodes, you inevitably get a tree. Your file system is essentially a node tree, and so is the web. So there isn't much new here. What's new is reducing a system to only these abstractions, and being able to start there and work at that level. It's abstraction, abstracted. A new computational canvas for everything.
 
 ## node basics
 
