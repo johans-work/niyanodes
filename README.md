@@ -30,9 +30,9 @@ Like a todo list has elements that make it a todo list, niya nodes just has elem
 
 The elements:
 
+##
 
-
-Adding a layer is adding more work, so it needs to be worth it, like why you would digitize analog. Nodalizing adds uniformity and universality to any system, but also unlocks the power of abstraction itself.
+Adding a layer is adding more work, so it needs to be worth it, like why you would digitize something analog. Nodalizing adds uniformity and universality to the abstractions of any system, unlocking the power of abstraction itself.
 
 
 Similar to what digital does for analog, nodal will do for digital.
@@ -40,8 +40,8 @@ Similar to what digital does for analog, nodal will do for digital.
 
 
 
-
 ##
+
 
 Just as an abstract of a paper is a smaller pattern that describes a larger pattern, so are all words in Enlgish that represent their meaning, and names of people that represent each person. The names form a name space that allows us to differentiate each abstraction individually.
 
