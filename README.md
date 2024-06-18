@@ -22,7 +22,10 @@ Each node is an instance of a type in a tree.
 
 ## implementation basics
 
-Niya itself is just an abstraction in need of an implementation on a niya node tree, and is implementation agnostic. Choose the type that works best for you, or build your own. 
+Niya itself is just an abstraction in need of an implementation on a niya node tree, and is implementation agnostic. Choose the type that works best for you, or build your own. The following outlines typical implementation requirement.
+
+
+
 
 
 ##
