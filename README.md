@@ -14,7 +14,7 @@ Niya nodes is a new tool for abstracting, implementing, and utilizing anything t
 
 Any time you have nodes that progressively lead to more nodes, you inevitably get a tree. Your file system is essentially a node tree, and so is the web. But in both cases, the user is confined to the abstractions of each system. But what if you could combine those trees? What if you could add a uniform layer that describes and accesses each tree? What if everything is just another node? A computational canvas for everything, where you go to add what's necessary, and get to do all that is possible. 
 
-Adding a layer adds work, so much like digitizing analog, nodalizing better be worth it. Digitizing introduced perfect copies and perfect data. Nodalizing introduces the capacity to add to this, names, types, addresses, and language.
+Adding a layer adds work, so much like digitizing analog, nodalizing better be worth it. Digitizing introduced perfect copies and perfect data. Nodalizing gives a piece of data a name, type, and location. But data is but one type of common abstraction found in computational systems. We also have code, hardware, and software. And through software, we have databases, servers, communications, and the internet.
 
 
 
@@ -47,6 +47,7 @@ Similar to what digital does for analog, nodal will do for digital.
 
 ##
 
+We've caught on to the value of meta data. This is the meta system.
 
 Just as an abstract of a paper is a smaller pattern that describes a larger pattern, so are all words in Enlgish that represent their meaning, and names of people that represent each person. The names form a name space that allows us to differentiate each abstraction individually.
 
