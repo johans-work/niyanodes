@@ -12,16 +12,11 @@ niya = each node is an instance of a type in a tree
 
 Niya nodes is a new tool for abstracting, implementing, and utilizing anything that can be abstracted and implemented by the user. 
 
-Any time you have nodes that progressively lead to more nodes, you inevitably get a tree. Your file system is essentially a node tree, and so is the web. So there isn't much new here. What's new is reducing a system to only these abstractions, and being able to start there and work at that level. It's abstraction, abstracted. A new computational canvas for everything.
+Any time you have nodes that progressively lead to more nodes, you inevitably get a tree. Your file system is essentially a node tree, and so is the web. So there isn't much new here. What's new is reducing a system to only these abstractions, and being able to start there and work at that level of abstraction. It's abstraction, abstracted. A new computational canvas for everything.
 
-## node basics
-
-
+## node and type basics
 
 Each node is an abstraction that has a name, implementation, and address. A name is any fitting string of letters. An implementation is anything that a computer can remember or access. And an address is just the names of its parent nodes in order. Users build their nodes and trees, then use and share them. Or, "noding" for short.
-
-
-## type basics
 
 When two nodes have something in common, we can create a template for that type of node. This makes every node an instance of a type. And that's the last piece of the basic niya node spec. If a node has been done before, you just copy it, and fill in the blanks. 
 
