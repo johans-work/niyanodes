@@ -32,7 +32,11 @@ The elements:
 
 
 
+Adding a layer is adding more work, so it needs to be worth it.
 
+Similar to what digital does for analog, nodal will do for digital.
+
+Nodalizing adds uniformity and universality to any system, but also unlocks the power of abstraction itself.
 
 
 
