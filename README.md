@@ -14,7 +14,7 @@ If we take a node as a point in a tree and an abstraction as a name for a patter
 
 Each node is an abstraction that has a name, implementation, and address. A name is any fitting string of letters. An implementation is anything that a computer can remember or access. And an address is just the names of its parent nodes in order. Users build their nodes and trees, then use and share them. Or, "noding" for short.
 
-There isn't much new here. Any time you have nodes that progressively lead to more nodes, you get a tree. Your file system is essentially a node tree, and so is the web. What's new is reducing a system to only these abstractions, and being able to start there. It's abstraction, abstracted. A new computational canvas for everything.
+There isn't much new here. Any time you have nodes that progressively lead to more nodes, you inevitably get a tree. Your file system is essentially a node tree, and so is the web. What's new is reducing a system to only these abstractions, and being able to start there, with what's inevitable. It's abstraction, abstracted. A new computational canvas for everything.
 
 ## type basics
 
@@ -22,7 +22,7 @@ Each node is an instance of a type in a tree.
 
 ## implementation basics
 
-Niya itself is just an abstraction in need of an implementation on a niya node tree, and is implementation agnostic. Choose an implementation that works best for you, or build your own. 
+Niya itself is just an abstraction in need of an implementation on a niya node tree, and is implementation agnostic. Choose the type that works best for you, or build your own. 
 
 
 ##
