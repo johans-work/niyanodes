@@ -13,7 +13,7 @@ niya = each node is an instance of a type in a tree
 Niya nodes is a new tool for abstracting, implementing, and utilizing anything that can be abstracted and implemented by the user. 
 ## node basics
 
-If we take a node as a point in a tree and an abstraction as a name for a pattern at every node, we get an abstraction tree, aka, a niya node tree. 
+If we take a node to be the point in any tree, and an abstraction to be the name for whatever is at every node, we get an abstraction tree, aka, a niya node tree. 
 
 Each node is an abstraction that has a name, implementation, and address. A name is any fitting string of letters. An implementation is anything that a computer can remember or access. And an address is just the names of its parent nodes in order. Users build their nodes and trees, then use and share them. Or, "noding" for short.
 
@@ -21,7 +21,7 @@ There isn't much new here. Any time you have nodes that progressively lead to mo
 
 ## type basics
 
-When two nodes have something in common, we can create a template for that type of node. This makes every node an instance of a type. And that's the last piece of the basic niya node spec.
+When two nodes have something in common, we can create a template for that type of node. This makes every node an instance of a type. And that's the last piece of the basic niya node spec. If a node has been done before, you just copy it, and fill in the blanks. 
 
 In nature, almost everything is unique. Each fingerprint, each moment in time, and each cake you bake. At the same time, almost everything has something in common. Being a fingerprint, being a moment in time, and being a cake. These would be type fingerprint, type moment, and type cake. And we would say, every fingerprint would be an instance of type fingerprint.
 
