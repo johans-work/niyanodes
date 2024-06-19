@@ -11,7 +11,7 @@ niya = each node is an instance of a type in a tree
 
 ## overview
 
-Niya nodes is a new tool for abstraction oriented programing used for abstracting, implementing, and utilizing anything that can be abstracted and implemented by the user. 
+Niya nodes is a new tool for abstraction oriented programing focused on abstracting, implementing, and utilizing anything that can be abstracted and implemented by the user. 
 
 Any time you have nodes that progressively lead to more nodes, you inevitably get a tree. Your file system is essentially a node tree, and so is the web. But in both cases, the user is confined to the abstractions of each system. But what if you could combine those trees? What if you could add a uniform layer that describes and accesses each tree? What if everything is just another node? A computational canvas for everything, where you go to add what's necessary, and get to do all that is possible. 
 
