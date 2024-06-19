@@ -17,7 +17,7 @@ Any time you have nodes that progressively lead to more nodes, you inevitably ge
 
 Adding a layer adds work, so much like digitizing analog, nodalizing better be worth it. Digitizing introduced perfect copies and perfect data. Nodalizing gives a piece of data a name, type, and location. But data is but one type of common abstraction found in computational systems. We also have code, hardware, and software. And through software, we have databases, servers, communications, and the internet. But it doesn't even end there.
 
-Abstraction starts not with the computer monitor, but with the moment you open your eyes or have a thought. Our minds are abstraction machines, and our realities are pre-abstracted for us in the form of spoken language.
+Abstraction starts not with the computer monitor, but with the moment you open your eyes or have a thought. Our minds are abstraction machines, and our realities are pre-abstracted for us in the form of spoken language. Most abstractions just need to be implemented, and not invented. Abstractions offer the smallest unit of reason, and with it, not just computer abstractions, but also the rest of the world.
 
 ## why abstraction, why now?
 
