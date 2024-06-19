@@ -21,8 +21,6 @@ Abstraction starts not with the computer monitor, but with the moment you open y
 
 Programming has always been abstraction oriented.
 
-## why abstraction, why now?
-
 ## node & type basics
 
 Each node is an abstraction that has a name, implementation, and address. A name is any fitting string of letters. An implementation is anything that a computer can remember or access. And an address is just the names of its parent nodes in order. Users build their nodes and trees, then use and share them. Or, "noding" for short.
