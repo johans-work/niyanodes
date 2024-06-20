@@ -15,13 +15,13 @@ Niya nodes is a new tool for abstraction oriented programing, optimized for abst
 
 Any time you have nodes that progressively lead to more nodes, you inevitably get a tree. Your file system is essentially a node tree, and so is the web. But in both cases, the user is confined to the abstractions of each system. But what if you could combine those trees? What if you could add a uniform layer that describes and accesses each tree? What if everything is just another node? A computational canvas for everything, where you go to add what's necessary, and get to do all that is possible based on each implementation. 
 
-Adding a layer adds work, so much like digitizing analog, nodalizing better be worth it. Digitizing introduced perfect copies and perfect data. Nodalizing gives a piece of data a name, type, and location. But data is but one type of common abstraction found in your computater. You also have code, software, all types of hardware, and even the internet. But it doesn't end there.
+Adding a layer adds work, so much like digitizing analog, nodalizing better be worth it. Digitizing introduced perfect copies and perfect data. Nodalizing gives a piece of data a name, type, and location. But data is but one type of common abstraction found in your computer. You also have code, software, hardware, and even the internet. But it doesn't end there.
 
-Before any screen, abstraction starts with the moment you're awake. Our minds are evolved abstraction machines, and our realities are pre-abstracted through spoken language. Most abstractions are already known, and just need to be implemented, not invented. 
+Before any screen, abstraction starts with the moment you're awake. Our minds are evolved abstraction machines, and our realities are pre-abstracted through spoken language. Most abstractions are already known, just waiting to be implemented, not invented. 
 
-Abstractions offer the smallest unit of reason, and with it, not just abstractions related to computers, but also the rest of the world. Most software is not about the machine itself. Accounting software is about accounting, graphics software is about graphics. Only coding is really about computers, but even then, we're coding something external and pulling it in. We're coding accounting software for accountants, implementing the abstractions that already exist in accounting, so that we may use computers to reason with them.
+Abstractions offer the smallest unit of reason, and not just computer abstractions, but of the world. Most software is not about the machine. Accounting software is about accounting, and graphics software is about graphics. Only coding is really about computers, but even then, we're coding accounting software for accountants, implementing the abstractions that already exist in the accounting world, so that computers can reason with them.
 
-Programming has always been abstraction oriented.
+The point is, programming has always been abstraction oriented.
 
 ## why this why now?
 
