@@ -19,20 +19,19 @@ Adding a layer adds work, so much like digitizing analog, nodalizing better be w
 
 Before any screen, abstraction starts with the moment you're awake. Our minds are evolved abstraction machines, and our realities are pre-abstracted through spoken language. Most abstractions are already known, just waiting to be implemented, not invented. 
 
-Abstractions offer the smallest unit of reason, and not just computer abstractions, but of the world. Most software is not about the machine. Accounting software is about accounting, and graphics software is about graphics. Only coding is really about computers, but even then, we're coding accounting software for accountants, implementing the abstractions that already exist in the accounting world, so that computers can reason with them.
-
-The point is, programming has always been abstraction oriented.
+Abstractions offer the smallest unit of reason, and not just computer abstractions, but of the world. Most software is not about the machine. Accounting software is about accounting, and graphics software is about graphics. Only coding is really about computers, but even then, we're coding accounting software for accountants, implementing the abstractions that already exist in the accounting world, so that computers can reason with them. Programming has always been abstraction oriented.
 
 ## why this why now?
 
-"It takes more sophisticated building blocks to simplify things."
-
-Every node being an instance of a type is hella simple. It doesn't get any simpler. But only because this is the product of something far more sophisticated, in abstraction theory.
+## Said Alan Kay
 
 "Data and processes already split the computer in half."
 
 The more you add, the more marginalized abstractions becomes. But if you don't add anything, you have nothing. Only the potential of anything.
 
+"It takes more complicated building blocks to simplify things."
+
+Every node being an instance of a type. It doesn't get any simpler. 
 
 
 ## node & type basics
