@@ -17,7 +17,7 @@ Any time you have nodes that progressively lead to more nodes, you inevitably ge
 
 Adding a layer adds work, so much like digitizing analog, nodalizing better be worth it. Digitizing introduced perfect copies and perfect data. Nodalizing gives a piece of data a name, type, and location. But data is but one type of common abstraction found in your computer. You also have code, software, hardware, and even the internet. But it doesn't end there.
 
-Before any screen, abstraction starts with the moment you're awake. Your mind is an evolved abstraction machine, and you experience a pre-abstracted reality based on the language you were born into. Most abstractions are already known, just waiting to be implemented, not invented. 
+Before any screen, abstraction starts with the moment you're awake. Your mind is an abstraction machine, and you experience a pre-abstracted reality based on the language you were born into. Most abstractions are already known, just waiting to be implemented, not invented. 
 
 Abstractions offer the smallest unit of reason, and not just computer abstractions, but of the world. Most software is not about the machine. Accounting software is about accounting, and graphics software is about graphics. Only coding is really about computers, but even then, we're coding accounting software for accountants, implementing the abstractions that already exist in the accounting world, so that computers can reason with them. 
 
