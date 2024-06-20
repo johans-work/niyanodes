@@ -23,7 +23,7 @@ Abstractions offer the smallest unit of reason, and not just computer abstractio
 
 Programming has always been abstraction oriented, and the abstractions were never confined to the machine.
 
-## why this, why now?
+## why now?
 
 
 ## abstraction theory
