@@ -49,7 +49,7 @@ Every node being an instance of a type. It doesn't get any simpler.
 
 Each node is an abstraction that has a name, implementation, and address. A name is any fitting string of letters. An implementation is anything that a computer can remember or access. And an address is just the names of its parent nodes in order. Users build their nodes and trees, then use and share them. Or, "noding" for short.
 
-When two nodes have something in common, we can create a template for that type of node. This makes every node an instance of a type. And that's the last piece of the basic niya node spec. If a node has been done before, you just copy it, and fill in the blanks. 
+When two nodes have something in common, we can create a template for that type of node. This makes every node an instance of a type. Or, "typing" for short.
 
 In nature, almost everything is unique. Each fingerprint, each moment in time, and each cake you bake. At the same time, almost everything has something in common. Being a fingerprint, being a moment in time, and being a cake. And we would say, every fingerprint is an instance of the fingerprint type. In niya, every node is an instance of the node type, or "type node", if not also something else.
 
