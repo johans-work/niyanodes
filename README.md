@@ -27,11 +27,11 @@ The point is, programming has always been abstraction oriented.
 
 "It takes more sophisticated building blocks to simplify things."
 
-Every node being an instance of a type is hella simple. It doesn't get any simpler. But that's because that already was built with more sophisticated building blocks. 
+Every node being an instance of a type is hella simple. It doesn't get any simpler. But only because this is the product of something far more sophisticated, in abstraction theory.
 
 "Data and processes already split the computer in half."
 
-The more you add to an abstraction, the more marginalized it becomes.
+The more you add, the more marginalized abstractions becomes. But if you don't add anything, you have nothing. Only the potential of anything.
 
 
 
