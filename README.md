@@ -13,7 +13,7 @@ niya = each node is an instance of a type in a tree
 
 Niya nodes is a new tool for abstraction oriented programing, optimized for abstracting, implementing, and utilizing abstractions, and in that order.
 
-Any time you have nodes that progressively lead to more nodes, you inevitably get a tree. Your file system is essentially a node tree, and so is the web. But in both cases, the user is confined to the abstractions of each system. But what if you could combine those trees? What if you could add a uniform layer that describes and accesses each tree? What if everything is just another node? A computational canvas for everything, where you go to add what's necessary, and get to do all that is possible based on each implementation. 
+Any time you have nodes that progressively lead to more nodes, you inevitably get a tree. Your file system is essentially a node tree, and so is the web. But in both cases, the user is confined to the abstractions of each system. But what if you could combine those trees? What if you could add a uniform layer that describes and accesses each tree? What if everything is just another node? A computational canvas for everything, where you go to add what's necessary, and get to do all that is made possible by each implementation. 
 
 Adding a layer adds work, so much like digitizing analog, nodalizing better be worth it. Digitizing introduced perfect copies and perfect data. Nodalizing gives a piece of data a name, type, and location. But data is but one type of common abstraction found in your computer. You also have code, software, hardware, and even the internet. But it doesn't end there.
 
@@ -24,6 +24,16 @@ Abstractions offer the smallest unit of reason, and not just computer abstractio
 The point is, programming has always been abstraction oriented.
 
 ## why this why now?
+
+"It takes more sophisticated building blocks to simplify things."
+
+Every node being an instance of a type is hella simple. It doesn't get any simpler. But that's because that already was built with more sophisticated building blocks. 
+
+"Data and processes already split the computer in half."
+
+The more you add to an abstraction, the more marginalized it becomes.
+
+
 
 ## node & type basics
 
