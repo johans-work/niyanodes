@@ -66,8 +66,9 @@ Like a todo list has elements that make it a todo list, niya nodes just has elem
 The elements:
 
 - basic structure
--- instance tree
--- type tree
+  - instance tree
+  
+type tree
 
 
 
