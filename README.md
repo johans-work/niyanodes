@@ -23,16 +23,9 @@ Abstractions offer the smallest unit of reason, and not just computer abstractio
 
 Programming has always been abstraction oriented, and abstractions have never been confined to the machine. 
 
-Niya nodes is the highest level of abstraction, by way of being about the abstractions.
+Niya nodes is the highest level of abstraction, by way of being about abstraction itself, and offers a blank computational canvas for everything.
 
-## why now?
-
-
-## abstraction theory
-
-
-
-## the theory of positivity
+## abstract positivism
 
 
 
