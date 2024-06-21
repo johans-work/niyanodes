@@ -10,6 +10,8 @@ niya = each node is an instance of a type in a tree
 
 The highest abstraction layer, and a blank computational canvas for everything.
 
+Abstraction, abstracted.
+
 ## overview
 
 Niya (knee-uh) nodes is a new framework for abstraction oriented programming, optimized for abstracting, implementing, and utilizing abstractions, and in that order.
