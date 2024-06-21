@@ -67,8 +67,11 @@ The elements:
 
 - basic structure
   - instance tree
-  
-type tree
+  - type tree
+- basic features
+  - add node
+  - display node
+  - edit node
 
 
 
