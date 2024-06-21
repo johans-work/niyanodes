@@ -21,7 +21,9 @@ Before any screen, abstraction starts with the moment you're awake. Your mind is
 
 Abstractions offer the smallest unit of reason, and not just computer abstractions, but of the world. Most software is not about the machine. Accounting software is about accounting, and graphics software is about graphics. Only coding is really about computers, but even then, we're coding accounting software for accountants, implementing the abstractions that already exist in the accounting world, so that computers can reason with them. 
 
-Programming has always been abstraction oriented, and abstractions have never been confined to the machine.
+Programming has always been abstraction oriented, and abstractions have never been confined to the machine. 
+
+Niya nodes is the highest level of abstraction, by way of being about the abstractions.
 
 ## why now?
 
