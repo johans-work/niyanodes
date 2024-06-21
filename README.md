@@ -63,12 +63,10 @@ It's important to distinguish between a real fingerprint and the word "fingerpri
 
 Like a todo list has elements that make it a todo list, niya nodes just has elements that make it a niya node tree. As such, niya itself is just an abstraction in need of an implementation, and is implementation agnostic. Choose the type that works best for you, or build your own. 
 
-The elements:
-
-- basic structure
+- structure
   - instance tree
   - type tree
-- basic features
+- features
   - add instance
   - display instance
   - edit instance
