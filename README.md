@@ -69,9 +69,9 @@ The elements:
   - instance tree
   - type tree
 - basic features
-  - add node
-  - display node
-  - edit node
+  - add instance
+  - display instance
+  - edit instance
 
 
 
