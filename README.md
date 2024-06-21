@@ -38,6 +38,8 @@ Niya nodes is the highest level of abstraction, by way of being about the abstra
 
 ## said Alan Kay
 
+"Water was not discovered by a fish."
+
 "Data and processes already split the computer in half."
 
 The more you add, the more marginalized abstractions becomes. But if you don't add anything, you have nothing. Only the potential of anything.
