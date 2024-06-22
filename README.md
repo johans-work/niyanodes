@@ -26,7 +26,9 @@ Abstractions offer the smallest unit of reason, not just in computers, but in yo
 
 Programming has always been abstraction oriented, and abstractions have never been confined to the machine. 
 
-Niya is the first tool focused on the highest level of abstraction we can represent in machines - abstraction itself. Abstraction, abstracted.
+Niya is the first tool focused on the highest level of abstraction we can represent in machines - abstraction itself. 
+
+Niya is abstraction abstracted.
 
 ## abstract positivism
 
