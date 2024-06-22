@@ -122,6 +122,14 @@ The app is being built at [nod.ing](http://nod.ing/).
 
 For more on abstraction see _____.
 
+Portable and independent. 
+
+Two copies make a type.
+
+Niya node test.
+What qualifies as a node tree? 
+Is it a tree? Are the nodes instances of types?
+
 
 
 
