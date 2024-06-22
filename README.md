@@ -61,13 +61,16 @@ It's important to distinguish between a real fingerprint and the word "fingerpri
 
 ## implementation basics
 
-A todo list has what makes it a todo list, and is implementation agnostic. It could be an app, in html or drawn on paper. Similarly, niya nodes is also just an abstraction seeking an implementation. 
+A todo list has what makes it a todo list, and is implementation agnostic. It could be an app, in html or drawn on paper. Similarly, niya nodes is also just an abstraction seeking an implementation. All you need is to know how it works.
 
 The Recipe:
 
+niya = each node is an instance of a type in a tree  
+
 - structure
-  - instance tree
-  - type tree
+  - instance tree: user nodes that starts empty
+  - type tree: range of types available
+  - system tree: the implementation of niya itself
 - functions
   - display tree
   - display node
