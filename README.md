@@ -61,20 +61,24 @@ It's important to distinguish between a real fingerprint and the word "fingerpri
 
 ## implementation basics
 
-Like a todo list has elements that make it a todo list, niya nodes just has elements that make it a niya node tree. As such, niya itself is just an abstraction in need of an implementation, and is implementation agnostic. Choose the type that works best for you, or build your own. 
+A todo list has elements that make it a todo list, and is implementation agnostic. You could write one in html or draw one on paper. What makes a todo list a todo list is transferrable. And like the todo list, niya nodes is also just an abstraction seeking an implementation. 
+
+You can start with 
 
 - structure
   - instance tree
   - type tree
-  - ledger (optional)
-  - inbox / outbox (optional)
-- features
-  - create instance
-  - generate type from instance
+- functions
+  - display tree
   - display node
   - edit node
-
-
+  - create instance from type
+  - generate type from instance
+  - copy & paste
+- optional features
+  - ledger tree
+  - inbox / outbox trees
+  - configuration tree
 
 ##
 
