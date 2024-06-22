@@ -138,4 +138,8 @@ if there is a preset order, don't contradict it
 is as do
 abstract over do, to get is.
 
+competition
+collaboration
+build a team
+each member is independent
 
