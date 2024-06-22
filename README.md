@@ -153,6 +153,10 @@ abstractions can be copied within the expression space.
 keep everything explicit. 
 PUT does this but POST does this because PUT is this and POST is that.
 form submit no repeat
+ajax should be ajax
+let should be let
+
+let html
 
 expressions are agreed upon
 conventions standards rules
@@ -160,6 +164,19 @@ if the expression is bad, change it
 make it different or make it the same
 utility will determine the correctness of that choice
 
+
+
+is is bad, except = is is. 
+if image // jpeg =
+the comparison
+determine if same
+determine if copy
+
+the problem with comparing abstractions
+the expression could be anything
+it's a layer on top of what the actual thing is
+be it the actual implementation, or the thing it's representing
+the expression could be anything
 
 
 
