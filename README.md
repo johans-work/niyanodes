@@ -14,7 +14,7 @@ Abstraction, abstracted.
 
 Niya (knee-uh) is a new framework for abstraction oriented programming, optimized for abstracting, implementing, and utilizing abstractions, and in that order.
 
-Nodes that spawn more nodes inevitably create trees. Your file system, the web, even web pages are essentially node trees. But systems are always confined to their own abstractions. What if you could combine those trees to where everything is just another node? A computational canvas where you go to add what's necessary and get to do all that is made possible by every individual implementation. 
+Nodes that spawn more nodes inevitably create trees. Your file system, the web, even web pages are essentially node trees. But systems are always confined to their own abstractions. What if you could combine those trees to where everything is just another node? A computational canvas where you  add what's necessary and do what's implemented. 
 
 Adding a layer adds work that better be worth it. Digitizing gave data perfect copies. Nodalizing gives data an identity, location, and interoperability. If data turned everything into 0s and 1s, nodalizing turns everything into things that talk.
 
