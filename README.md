@@ -20,7 +20,7 @@ Any time you have nodes that progressively lead to more nodes, you inevitably ge
 
 Adding a layer adds work that better be worth it. Digitizing gave data perfect copies. Nodalizing gives data an identity and location. If data turned everything into 0s and 1s, nodalizing turns everything into "things".
 
-Yet, data is just one abstraction found in your computer. There's code, software, hardware, and even the internet. But why would it end there? Before any screen, abstraction starts with the moment you're awake. Your mind is an abstraction machine, and you experience a pre-abstracted reality based on the language you were born into. Most abstractions are already known, just waiting to be implemented, not invented. 
+Yet, data is just one abstraction found in your computer. There's code, software, hardware, and even the internet. But why would it end there? Before any screen, abstraction starts with the moment you're concsious. Your mind is an abstraction machine, and you experience a pre-abstracted reality based on the language you were born into. Most abstractions are already known, just waiting to be implemented, not invented. 
 
 Abstractions offer the smallest unit of reason, and not just computer abstractions, but of the world. Most software is not about the machine. Accounting software is about accounting, and graphics software is about graphics. Only coding is really about computers, but even then, we're coding accounting software for accountants, implementing the abstractions that already exist in the accounting world, so that computers can reason with them. 
 
