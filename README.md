@@ -85,6 +85,7 @@ niya = each node is an instance of a type in a tree
 
 ##
 
+<!--
 
 Computer objects have it both ways. The abstractions themselves become real.
 
