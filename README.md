@@ -130,6 +130,9 @@ Niya node test.
 What qualifies as a node tree? 
 Is it a tree? Are the nodes instances of types?
 
+only as do
+
+if there is a preset order, don't contradict it
 
 
 
