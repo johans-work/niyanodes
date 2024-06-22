@@ -70,7 +70,7 @@ niya = each node is an instance of a type in a tree
 - structure
   - instance tree: empty user nodes
   - type tree: range of types available
-  - system tree: the implementation of niya itself
+  - system tree: an instance of a niya implementation
 - functions
   - display tree
   - display node
