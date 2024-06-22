@@ -82,6 +82,7 @@ niya = each node is an instance of a type in a tree
   - ledger tree
   - inbox / outbox trees
   - configuration tree
+  - documentation
 
 ##
 
