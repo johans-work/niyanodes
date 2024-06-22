@@ -8,25 +8,27 @@
 
 niya = each node is an instance of a type in a tree
 
-The highest abstraction layer, and a blank computational canvas for everything.
-
 Abstraction, abstracted.
 
 ## overview
 
 Niya (knee-uh) is a new framework for abstraction oriented programming, optimized for abstracting, implementing, and utilizing abstractions, and in that order.
 
-Any time you have nodes that progressively lead to more nodes, you inevitably get a tree. Your file system is essentially a node tree, and so is the web. But in both cases, the user is confined to the abstractions of each system. But what if you could combine those trees? What if you could add a uniform layer that describes and accesses each tree? What if everything is just another node? A computational canvas for everything, where you go to add what's necessary, and get to do all that is made possible by every individual implementation. 
+Nodes that spawn more nodes inevitably create trees. Your file system, the web, even web pages are essentially node trees. But systems are always confined to their own abstractions. What if you could combine those trees to where everything is just another node? A computational canvas where you go to add what's necessary and get to do all that is made possible by every individual implementation. 
 
-Adding a layer adds work that better be worth it. Digitizing gave data perfect copies. Nodalizing gives data an identity and location. If data turned everything into 0s and 1s, nodalizing turns everything into "things".
+Adding a layer adds work that better be worth it. Digitizing gave data perfect copies. Nodalizing gives data an identity, location, and interoperability. If data turned everything into 0s and 1s, nodalizing turns everything into things that talk.
 
-Yet, data is just one abstraction found in your computer. There's code, software, hardware, and even the internet. But why would it end there? Before any screen, abstraction starts with the moment you're concsious. Your mind is an abstraction machine, and you experience a pre-abstracted reality based on the language you were born into. Most abstractions are already known, just waiting to be implemented, not invented. 
+Data is just one abstraction found in your computer. There's also code, hardware, and even the internet. But why would we end there? 
 
-Abstractions offer the smallest unit of reason, and not just computer abstractions, but of the world. Most software is not about the machine. Accounting software is about accounting, and graphics software is about graphics. Only coding is really about computers, but even then, we're coding accounting software for accountants, implementing the abstractions that already exist in the accounting world, so that computers can reason with them. 
+Before any screen, abstraction starts with the moment you're concsious. Your mind is an evolved abstraction machine, and you experience a pre-abstracted reality through the lens of the language you were born into. Most abstractions are already known, just waiting to be implemented, not invented. 
+
+Abstractions offer the smallest unit of reason, not just in computers, but in your brain, and extend to the rest of the world. Most software is not about the machine. Accounting software is about accounting, and graphics software is about graphics. Only coding is really about computers, but even then, we're coding accounting software for accountants, implementing the abstractions that already exist in the accounting world, so that computers can reason with them. 
 
 Programming has always been abstraction oriented, and abstractions have never been confined to the machine. 
 
 Niya is the first tool focused on the highest level of abstraction we can represent in a machine - abstraction itself. 
+
+Abstraction, abstracted.
 
 ## abstract positivism
 
