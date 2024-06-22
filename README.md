@@ -36,6 +36,8 @@ Niya is abstraction abstracted.
 
 ## said Alan Kay
 
+disclaimer: Heavy confirmation bias. 
+
 "Water was not discovered by a fish."
 
 "Data and processes already split the computer in half."
