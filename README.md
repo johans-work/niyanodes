@@ -18,7 +18,7 @@ Niya (knee-uh) nodes is a new framework for abstraction oriented programming, op
 
 Any time you have nodes that progressively lead to more nodes, you inevitably get a tree. Your file system is essentially a node tree, and so is the web. But in both cases, the user is confined to the abstractions of each system. But what if you could combine those trees? What if you could add a uniform layer that describes and accesses each tree? What if everything is just another node? A computational canvas for everything, where you go to add what's necessary, and get to do all that is made possible by every individual implementation. 
 
-Adding a layer adds work. Digitizing introduced perfect copies and perfect data. Nodalizing gives a piece of data a name, type, and location. If data turned everything into 0s and 1s, nodalizing turns everything into "things".
+Adding a layer adds work, and better be worth it. Digitizing introduced perfect copies and perfect data. Nodalizing gives a piece of data a name, type, and location. If data turned everything into 0s and 1s, nodalizing turns everything into "things".
 
 Data is but one type of common abstraction found in your computer. You also have code, software, hardware, and even the internet. But it doesn't end there. Before any screen, abstraction starts with the moment you're awake. Your mind is an abstraction machine, and you experience a pre-abstracted reality based on the language you were born into. Most abstractions are already known, just waiting to be implemented, not invented. 
 
@@ -38,9 +38,9 @@ Niya is the first tool focused on the highest level of abstraction we can repres
 
 "Data and processes already split the computer in half."
 
-But even "computer" was split and left something behind. The least split abstraction is, abstraction.
+The more you add, the more marginalized abstractions become. But if you don't add anything, you have nothing. Only the potential of anything.
 
-The more you add, the more marginalized abstractions becomes. But if you don't add anything, you have nothing. Only the potential of anything.
+But even "computer" was split and left something behind. The least split abstraction is, abstraction. And the greatest first split is between type and instance. The thing itself, and what the thing is of.
 
 "It takes more complicated building blocks to simplify things."
 
@@ -64,10 +64,13 @@ Like a todo list has elements that make it a todo list, niya nodes just has elem
 - structure
   - instance tree
   - type tree
+  - ledger (optional)
+  - inbox / outbox (optional)
 - features
-  - add instance
-  - display instance
-  - edit instance
+  - create instance
+  - generate type from instance
+  - display node
+  - edit node
 
 
 
