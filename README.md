@@ -145,3 +145,21 @@ collaboration
 build a team
 each member is independent
 
+indepentent and portable
+can be copied perfectly, can it travel, can it become a message.
+
+abstractions can be copied within the expression space.
+
+keep everything explicit. 
+PUT does this but POST does this because PUT is this and POST is that.
+form submit no repeat
+
+expressions are agreed upon
+conventions standards rules
+if the expression is bad, change it
+make it different or make it the same
+utility will determine the correctness of that choice
+
+
+
+
