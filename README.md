@@ -38,6 +38,8 @@ Niya is the first tool focused on the highest level of abstraction we can repres
 
 "Data and processes already split the computer in half."
 
+But even "computer" was split and left something behind. The least split abstraction is, abstraction.
+
 The more you add, the more marginalized abstractions becomes. But if you don't add anything, you have nothing. Only the potential of anything.
 
 "It takes more complicated building blocks to simplify things."
