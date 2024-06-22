@@ -14,7 +14,7 @@ Abstraction, abstracted.
 
 ## overview
 
-Niya (knee-uh) nodes is a new framework for abstraction oriented programming, optimized for abstracting, implementing, and utilizing abstractions, and in that order.
+Niya (knee-uh) is a new framework for abstraction oriented programming, optimized for abstracting, implementing, and utilizing abstractions, and in that order.
 
 Any time you have nodes that progressively lead to more nodes, you inevitably get a tree. Your file system is essentially a node tree, and so is the web. But in both cases, the user is confined to the abstractions of each system. But what if you could combine those trees? What if you could add a uniform layer that describes and accesses each tree? What if everything is just another node? A computational canvas for everything, where you go to add what's necessary, and get to do all that is made possible by every individual implementation. 
 
