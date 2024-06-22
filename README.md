@@ -135,6 +135,7 @@ only as do
 
 if there is a preset order, don't contradict it
 
-
+is as do
+abstract over do, to get is.
 
 
