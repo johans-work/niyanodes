@@ -68,7 +68,7 @@ The Recipe:
 niya = each node is an instance of a type in a tree  
 
 - structure
-  - instance tree: user nodes that starts empty
+  - instance tree: empty user nodes
   - type tree: range of types available
   - system tree: the implementation of niya itself
 - functions
