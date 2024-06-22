@@ -26,7 +26,7 @@ Abstractions offer the smallest unit of reason, not just in computers, but in yo
 
 Programming has always been abstraction oriented, and abstractions have never been confined to the machine. 
 
-Niya is the first tool focused on the highest level of abstraction we can represent in machines - abstraction itself. 
+Niya is the first tool focused on the highest level of abstraction we can represent in machines - abstraction itself. The one perfectly physical thing that is empty, but could be anything.
 
 Niya is abstraction abstracted.
 
@@ -178,5 +178,6 @@ it's a layer on top of what the actual thing is
 be it the actual implementation, or the thing it's representing
 the expression could be anything
 
+You say, but it has five fingers, to which I say, but it's made of clay.
 
 
