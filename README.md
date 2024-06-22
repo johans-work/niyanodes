@@ -93,6 +93,19 @@ Computer objects have it both ways. The abstractions themselves become real.
 Similar to what digital does for analog, nodal will do for digital.
 
 
+Abstraction is not about hiding or inaccessibility or security.
+Abstraction is about independence, fault tolerance (forgiveness), and minding your own business.
+
+No one needs to say anything if all is known.
+
+this is  you telling it
+node.do()
+
+within a node
+node.do()
+this is the node telling it.
+
+
 
 
 ##
