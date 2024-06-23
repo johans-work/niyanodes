@@ -109,7 +109,8 @@ node.do()
 this is the node telling it.
 
 
-
+abstractions exclude the moment they are created
+and are created with the purpose of exclusion
 
 ##
 
