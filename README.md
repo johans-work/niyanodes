@@ -12,7 +12,7 @@ Abstraction, abstracted.
 
 ## overview
 
-Niya (knee-uh) is a new framework for abstraction oriented programming. It's the first tool of it's kind, focused on the highest level of abstraction we can represent in machines - abstraction itself. The one perfectly physical thing that is both empty and everything at the same time. Niya is abstraction abstracted.
+Niya (knee-uh) is a new framework for abstraction oriented programming focused on the highest level of abstraction we can represent in machines - abstraction itself. The one perfectly physical thing that is both empty and everything at the same time. Niya is abstraction abstracted.
 
 
 
