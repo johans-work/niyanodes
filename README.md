@@ -48,7 +48,7 @@ But even "computer" was split and left something behind. The least split abstrac
 
 "It takes more complicated building blocks to simplify things."
 
-Every node being an instance of a type. It doesn't get any simpler. 
+Every node being an instance of a type. It doesn't get any simpler. But do you truly understand abstraction? It could be one of the most sophisticated and valuable concepts you learn in your life.
 
 
 ## node & type basics
