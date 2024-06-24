@@ -95,10 +95,10 @@ niya = each node is an instance of a type in a tree
 
 Whether you are building a new tree or converting something that already exists, the steps are the same.
 
-Start with a seed and name it what it is. 
-Independent parts make siblings.
-Dependent parts make children.
-Add documentation and implementation nodes.
+1. Start with a seed and name it what it is.
+2. Independent parts make siblings.
+3. Dependent parts make children.
+4. Add documentation and implementation nodes.
 
 
 ##
