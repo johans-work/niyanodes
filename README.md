@@ -78,8 +78,9 @@ niya = each node is an instance of a type in a tree
 - functions
   - display tree
   - display node
+  - add node (seed)
   - edit node
-  - create instance from type
+  - generate instance from type
   - generate type from instance
   - copy & paste
   - import / export
@@ -88,6 +89,17 @@ niya = each node is an instance of a type in a tree
   - inbox / outbox trees
   - configuration tree
   - documentation
+
+
+## noding basics
+
+Whether you are building a new tree or converting something that already exists, the steps are the same.
+
+Start with a seed and name it what it is. 
+Independent parts make siblings.
+Dependent parts make children.
+Add documentation and implementation nodes.
+
 
 ##
 
