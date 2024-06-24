@@ -24,7 +24,7 @@ Data is just one abstraction found in your computer. There's also code, hardware
 
 Before any screen, abstraction starts with the moment you're concsious. Your mind is an evolved abstraction machine, and you experience a pre-abstracted reality through the lens of the language you were born into. Most abstractions are already known, just waiting to be implemented, not invented. 
 
-Abstractions offer the smallest unit of reason, not just in computers, but in your brain, and extend to the rest of the world. Most software is not about the machine. Accounting software is about accounting, and graphics software is about graphics. Only coding is really about computers, but even then, we're coding accounting software for accountants, implementing the abstractions that already exist in the accounting world, so that computers can reason with them. 
+Abstractions offer the smallest unit of reason, not just in computers, but in your brain, and extend to the rest of the world, and become that world. Most software is not about the machine. Accounting software is about accounting, and graphics software is about graphics. Only coding is really about computers, but even then, we're coding accounting software for accountants, implementing the abstractions that already exist in the accounting world, so that computers can reason with them. 
 
 Programming has always been abstraction oriented, and abstractions have never been confined to the machine. 
 
