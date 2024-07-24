@@ -9,6 +9,7 @@
 niya = each node is an instance of a type in a tree
 
 Abstraction, abstracted.
+A pure abstraction layer.
 
 ## overview
 
